@@ -1,0 +1,64 @@
+h1 {
+  text-align: center;
+  color: #66BFBF;
+  font-family: "Comic Sans MS", cursive, sns-serif;
+}
+#invite{
+    float:right;
+}
+
+h2 {
+  text-align: center;
+  color: RGB(5, 7, 20);
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-style: italic;
+  
+}
+h3 {
+  text-align: center;
+  color:RGB(5, 7, 20) ;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-style: italic;
+  
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: a
+  width: 25%;
+}
+
+frame {
+  display: groove;
+  margin-left: 5px;
+  border-color: gold;
+  padding: 20px 20px 20px 20px;
+  width: 50%;
+}
+p {
+    font-size: 20;
+  text-align: center;
+  color: white;
+}
+center {
+  text-align: auto;
+}
+
+
+.Aditya {
+   color:coral; 
+}
+
+body{
+    background-image:url(https://images.hdqwalls.com/wallpapers/star-wars-4th-may-kt.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+.yoda{
+    width:200px;
+    height: 200px;
+    text-align: center;
+    margin-left: 0px;
+}
